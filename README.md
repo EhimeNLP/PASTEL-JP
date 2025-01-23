@@ -14,6 +14,13 @@
   - Simplicity：comp.txtとsimp.txtはそれぞれネ難解な文と平易な文が含まれています。
   - Toxicity：non-offensive.txtとoffensive.txtはそれぞれネ非攻撃的な文と攻撃的な文が含まれています。
 
+- PASTEL-JPのFormalityには以下のような文対が含まれています。
+| formal.txt     | informal.txt   |
+|:-----------:|:---------:|
+| データ1     | データ2   |
+| データ4     | データ5   |
+
+
 # 文献情報
 - 花房 健太郎, 柳本 大輝, 梶原 智之, 二宮 崇．<br>
   大規模言語モデルによる日本語スタイル変換の性能評価．<br>
