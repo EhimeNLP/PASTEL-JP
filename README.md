@@ -4,14 +4,14 @@
 
 
 # ファイルについて
-- 7スタイルのフォルダがそれぞれあり、その中に2つのtxtファイルが含まれています。txtファイルはスタイルの文が行ごとにペアになっています。
-  - Formality：formal.txtとinformal.txtはそれぞれフォーマルな文とインフォーマルな文が含まれています。
-  - Gender：feminine.txtとmasculine.txtはそれぞれ女性的な文と男性的な文が含まれています。
-  - Politeness：impolite.txtとpolite.txtはそれぞれ無礼な文と丁寧な文が含まれています。
-  - Romance：factual.txtとromance.txtはそれぞれ事実的な文とロマンスな文が含まれています。
-  - Sentiment：negative.txtとpositive.txtはそれぞれネガティブな文とポジティブな文が含まれています。
-  - Simplicity：comp.txtとsimp.txtはそれぞれネ難解な文と平易な文が含まれています。
-  - Toxicity：non-offensive.txtとoffensive.txtはそれぞれネ非攻撃的な文と攻撃的な文が含まれています。
+- 7スタイルのフォルダがそれぞれあり、その中に2つのtxtファイルが含まれています。2つのtxtファイルはスタイルの文が行ごとにペアになっています。
+  - Formality：`formal.txt`と`informal.txt`はそれぞれフォーマルな文とインフォーマルな文が含まれています。
+  - Gender：`feminine.txt`と`masculine.txt`はそれぞれ女性的な文と男性的な文が含まれています。
+  - Politeness：`impolite.txt`と`polite.txt`はそれぞれ無礼な文と丁寧な文が含まれています。
+  - Romance：`factual.txt`と`romance.txt`はそれぞれ事実的な文とロマンスな文が含まれています。
+  - Sentiment：`negative.txt`と`positive.txt`はそれぞれネガティブな文とポジティブな文が含まれています。
+  - Simplicity：`comp.txt`と`simp.txt`はそれぞれネ難解な文と平易な文が含まれています。
+  - Toxicity：`non-offensive.txt`と`offensive.txt`はそれぞれネ非攻撃的な文と攻撃的な文が含まれています。
 
 - PASTEL-JPのFormalityには以下のような文対が含まれています。
   
