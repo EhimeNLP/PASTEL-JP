@@ -5,9 +5,13 @@
 
 # ファイルについて
 - 7スタイルのフォルダがそれぞれあり、その中に2つのtxtファイルが含まれています。txtファイルはスタイルの文が行ごとにペアになっています。
-- Formality：formal.txtとinformal.txtはそれぞれフォーマルな文とインフォーマルな文です。
-
-- PASTEL-JPのFormalityには以下のような文対が含まれています。
+- Formality：formal.txtとinformal.txtはそれぞれフォーマルな文とインフォーマルな文が含まれています。
+- Gender：feminine.txtとmasculine.txtはそれぞれ女性的な文と男性的な文が含まれています。
+- Politeness：impolite.txtとpolite.txtはそれぞれ無礼な文と丁寧な文が含まれています。
+- Romance：factual.txtとromance.txtはそれぞれ事実的な文とロマンスな文が含まれています。
+- Sentiment：negative.txtとpositive.txtはそれぞれネガティブな文とポジティブな文が含まれています。
+- Simplicity：comp.txtとsimp.txtはそれぞれネ難解な文と平易な文が含まれています。
+- Toxicity：non-offensive.txtとoffensive.txtはそれぞれネ非攻撃的な文と攻撃的な文が含まれています。
 
 # 文献情報
 - 花房 健太郎, 柳本 大輝, 梶原 智之, 二宮 崇．<br>
