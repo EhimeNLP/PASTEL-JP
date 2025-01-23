@@ -4,8 +4,9 @@
 
 
 # ファイルについて
-- 7スタイルのフォルダがそれぞれあり、その中に2つのtxtファイルが含まれています。txtファイルはスタイルの文が行ごとにペアになっています。
-- Formality：formal.txtとinformal.txtはそれぞれフォーマルな文とインフォーマルな文が含まれています。
+- 7スタイルのフォルダがそれぞれあり、その中に2つのtxtファイルが含まれています。
+  txtファイルはスタイルの文が行ごとにペアになっています。
+  - Formality：formal.txtとinformal.txtはそれぞれフォーマルな文とインフォーマルな文が含まれています。
 - Gender：feminine.txtとmasculine.txtはそれぞれ女性的な文と男性的な文が含まれています。
 - Politeness：impolite.txtとpolite.txtはそれぞれ無礼な文と丁寧な文が含まれています。
 - Romance：factual.txtとromance.txtはそれぞれ事実的な文とロマンスな文が含まれています。
